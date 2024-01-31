@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265019175397",
+    "project_id": "lincmed-007",
+    "storage_bucket": "lincmed-007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265019175397:android:697365138e397a9d137f0c",
+        "android_client_info": {
+          "package_name": "com.lincmed_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrQK9iEOIcdQjljpWhgnkCQe0zWdONGEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
